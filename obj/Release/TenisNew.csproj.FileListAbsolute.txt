@@ -1,0 +1,10 @@
+C:\Users\rchio\Desktop\Projects C#\TenisNew\bin\Release\TenisNew.exe.config
+C:\Users\rchio\Desktop\Projects C#\TenisNew\bin\Release\TenisNew.exe
+C:\Users\rchio\Desktop\Projects C#\TenisNew\bin\Release\TenisNew.pdb
+C:\Users\rchio\Desktop\Projects C#\TenisNew\obj\Release\TenisNew.Form1.resources
+C:\Users\rchio\Desktop\Projects C#\TenisNew\obj\Release\TenisNew.Properties.Resources.resources
+C:\Users\rchio\Desktop\Projects C#\TenisNew\obj\Release\TenisNew.Resource1.resources
+C:\Users\rchio\Desktop\Projects C#\TenisNew\obj\Release\TenisNew.csproj.GenerateResource.cache
+C:\Users\rchio\Desktop\Projects C#\TenisNew\obj\Release\TenisNew.exe
+C:\Users\rchio\Desktop\Projects C#\TenisNew\obj\Release\TenisNew.pdb
+C:\Users\rchio\Desktop\Projects C#\TenisNew\obj\Release\TenisNew.csprojAssemblyReference.cache
